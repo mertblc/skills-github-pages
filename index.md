@@ -35,5 +35,3 @@ This is a **Markdown** file. You can write content here just like you would in a
 
 > "Even the smallest person can change the course of the future." — Galadriel
 
-
-
